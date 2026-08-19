@@ -1,271 +1,283 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Apps Built With Livepeer"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Using to create your own platform for livestreaming",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257500142,
+                "language": "Solidity",
+                "last_commit": "2025-11-06T15:27:07Z",
+                "owner": "videoDAC",
+                "repo": "livepeer-gateway",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Streaming into Decentraland with Livepeer Studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368161384,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T21:01:35Z",
+                "owner": "decentraland-scenes",
+                "repo": "video-streaming",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OurTube - decentralized YouTube sample app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456379721,
+                "language": "TypeScript",
+                "last_commit": "2024-01-10T06:16:24Z",
+                "owner": "suhailkakar",
+                "repo": "Decentralized-YouTube",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Justcast.it: 1 click \"start livestream\" from the browser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370744428,
+                "language": "TypeScript",
+                "last_commit": "2023-04-30T22:35:01Z",
+                "owner": "victorges",
+                "repo": "justcast.it",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Demo TikTok clone built on Livepeer + Lens Protocol",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592445715,
+                "language": "JavaScript",
+                "last_commit": "2023-01-25T09:13:54Z",
+                "owner": "livepeer",
+                "repo": "livepeer-lens-shortvideos",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebRTMP sample app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406880440,
+                "language": "TypeScript",
+                "last_commit": "2023-08-07T18:07:15Z",
+                "owner": "livepeer",
+                "repo": "webrtmp-sdk",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Token gating a video on an EVM chain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577240878,
+                "language": "TypeScript",
+                "last_commit": "2024-03-02T13:10:36Z",
+                "owner": "suhailkakar",
+                "repo": "Livepeer-EVM-Tokengating",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sample app combining Filecoin's FVM and Livepeer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613712066,
+                "language": "TypeScript",
+                "last_commit": "2023-04-04T00:18:26Z",
+                "owner": "suhailkakar",
+                "repo": "FVM-x-Livepeer-Example-App",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mint Video NFTs on Solana",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583452368,
+                "language": "TypeScript",
+                "last_commit": "2023-01-27T13:32:50Z",
+                "owner": "suhailkakar",
+                "repo": "livepeer-solana-nft",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sample app for video playback off of dStorage like IPFS and Arweave",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567179879,
+                "language": "JavaScript",
+                "last_commit": "2022-12-12T19:06:42Z",
+                "owner": "suhailkakar",
+                "repo": "livepeer-dStorage-playback",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity Livepeer Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621927790,
+                "language": "C#",
+                "last_commit": "2023-04-19T16:09:04Z",
+                "owner": "alextitonis",
+                "repo": "Unity-Livepeer-Client",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Token gating a video on Aptos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570094291,
+                "language": "TypeScript",
+                "last_commit": "2022-11-28T15:11:20Z",
+                "owner": "suhailkakar",
+                "repo": "Livepeer-Aptos",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Use Guild.xyz to token gate video content",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630037355,
+                "language": "TypeScript",
+                "last_commit": "2023-04-19T14:37:57Z",
+                "owner": "suhailkakar",
+                "repo": "livepeer-guild-token-gated-vod",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Demo Apps"
+        }
+      ],
       "title": "Developer Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Using to create your own platform for livestreaming",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Docker Portainer",
+              "description": "Guide for node operator efficiency.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519537281,
+                "language": "Shell",
+                "last_commit": "2022-08-12T16:09:58Z",
+                "owner": "AuthorityNull",
+                "repo": "Livepeer-Docker-Portainer",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Livepeer Reward Watcher",
+              "description": "Monitors your Livepeer orchestrator and alerts you when it's at risk of missing a reward call.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1050542580,
+                "language": "Go",
+                "last_commit": "2025-12-23T23:11:10Z",
+                "owner": "rickstaa",
+                "repo": "livepeer-reward-watcher",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Livepeer Exporter",
+              "description": "Enhanced monitoring tool for the Livepeer network and Livepeer orchestrators.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718089313,
+                "language": "Go",
+                "last_commit": "2024-08-20T17:42:28Z",
+                "owner": "transcodeninja",
+                "repo": "livepeer-exporter",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-11-06T15:27:07Z",
-            "owner": "videoDAC",
-            "repo": "livepeer-gateway",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Streaming into Decentraland with Livepeer Studio",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-05T21:01:35Z",
-            "owner": "decentraland-scenes",
-            "repo": "video-streaming",
-            "stars": 10
-          }
+          "node_type": "group",
+          "title": "Node Operator Tools"
         }
       ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OurTube - decentralized YouTube sample app",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-01-10T06:16:24Z",
-            "owner": "suhailkakar",
-            "repo": "Decentralized-YouTube",
-            "stars": 429
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Justcast.it: 1 click \"start livestream\" from the browser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-30T22:35:01Z",
-            "owner": "victorges",
-            "repo": "justcast.it",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Demo TikTok clone built on Livepeer + Lens Protocol",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-25T09:13:54Z",
-            "owner": "livepeer",
-            "repo": "livepeer-lens-shortvideos",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebRTMP sample app",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-07T18:07:15Z",
-            "owner": "livepeer",
-            "repo": "webrtmp-sdk",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Token gating a video on an EVM chain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-02T13:10:36Z",
-            "owner": "suhailkakar",
-            "repo": "Livepeer-EVM-Tokengating",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sample app combining Filecoin's FVM and Livepeer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-04T00:18:26Z",
-            "owner": "suhailkakar",
-            "repo": "FVM-x-Livepeer-Example-App",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mint Video NFTs on Solana",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-27T13:32:50Z",
-            "owner": "suhailkakar",
-            "repo": "livepeer-solana-nft",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sample app for video playback off of dStorage like IPFS and Arweave",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-12T19:06:42Z",
-            "owner": "suhailkakar",
-            "repo": "livepeer-dStorage-playback",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unity Livepeer Client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-04-19T16:09:04Z",
-            "owner": "alextitonis",
-            "repo": "Unity-Livepeer-Client",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Token gating a video on Aptos",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-11-28T15:11:20Z",
-            "owner": "suhailkakar",
-            "repo": "Livepeer-Aptos",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Use Guild.xyz to token gate video content",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-19T14:37:57Z",
-            "owner": "suhailkakar",
-            "repo": "livepeer-guild-token-gated-vod",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Demo Apps"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Network Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Docker Portainer",
-          "description": "Guide for node operator efficiency.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-08-12T16:09:58Z",
-            "owner": "AuthorityNull",
-            "repo": "Livepeer-Docker-Portainer",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Livepeer Reward Watcher",
-          "description": "Monitors your Livepeer orchestrator and alerts you when it's at risk of missing a reward call.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-23T23:11:10Z",
-            "owner": "rickstaa",
-            "repo": "livepeer-reward-watcher",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Livepeer Exporter",
-          "description": "Enhanced monitoring tool for the Livepeer network and Livepeer orchestrators.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-08-20T17:42:28Z",
-            "owner": "transcodeninja",
-            "repo": "livepeer-exporter",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Node Operator Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Analytics / Stats / Monitoring"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:39:35.952Z",
+    "last_updated": "2026-08-19T12:36:11.677Z",
     "original_repository": "livepeer/awesome-livepeer",
+    "original_repository_id": 615469832,
     "original_repository_sha": "faec6077ee8b57c8db209bfd6934a55e729fd051",
     "enhanced_repository": "enhansome/enhansome-livepeer",
     "enhanced_repository_description": null,
