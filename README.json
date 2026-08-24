@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "go-livepeer",
+              "description": "Client software running Livepeer Public Transcoding Network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94728962,
+                "language": "Go",
+                "last_commit": "2026-08-21T17:29:24Z",
+                "owner": "livepeer",
+                "repo": "go-livepeer",
+                "stars": 586
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Livepeer Tools and Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Using to create your own platform for livestreaming",
               "description": null,
               "children": [],
@@ -222,6 +244,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Livepeer Income Reports",
+              "description": "A collection of Python scripts for Livepeer delegators and orchestrators to calculate earnings and rewards and generate tax reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990983256,
+                "language": "Python",
+                "last_commit": "2026-01-03T11:06:51Z",
+                "owner": "rickstaa",
+                "repo": "livepeer-income-reports",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Delegator Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Docker Portainer",
               "description": "Guide for node operator efficiency.",
               "children": [],
@@ -275,7 +319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:29:38.998Z",
+    "last_updated": "2026-08-24T13:49:04.999Z",
     "original_repository": "livepeer/awesome-livepeer",
     "original_repository_id": 615469832,
     "original_repository_sha": "faec6077ee8b57c8db209bfd6934a55e729fd051",
