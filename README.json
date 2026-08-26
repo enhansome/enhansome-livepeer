@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 94728962,
                 "language": "Go",
-                "last_commit": "2026-08-21T17:29:24Z",
+                "last_commit": "2026-08-25T15:25:19Z",
                 "owner": "livepeer",
                 "repo": "go-livepeer",
                 "stars": 586
@@ -319,7 +319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:46:43.078Z",
+    "last_updated": "2026-08-26T13:52:25.410Z",
     "original_repository": "livepeer/awesome-livepeer",
     "original_repository_id": 615469832,
     "original_repository_sha": "faec6077ee8b57c8db209bfd6934a55e729fd051",
