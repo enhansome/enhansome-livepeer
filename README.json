@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Go implementation of the Livepeer protocol",
+                "homepage": "http://livepeer.org",
                 "id": 94728962,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T00:28:04Z",
+                "open_issues": 386,
                 "owner": "livepeer",
                 "repo": "go-livepeer",
-                "stars": 586
+                "stars": 586,
+                "topics": [
+                  "broadcasting",
+                  "ethereum",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "transcode",
+                  "video-stream"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             }
@@ -35,12 +47,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instructions for operating a Gateway on Livepeer Protocol.",
+                "homepage": "https://livepeer.org",
                 "id": 257500142,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-11-06T15:27:07Z",
+                "open_issues": 4,
                 "owner": "videoDAC",
                 "repo": "livepeer-gateway",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "ai-generation",
+                  "blockchain",
+                  "ethereum",
+                  "media",
+                  "open-source",
+                  "transcoding",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -51,12 +76,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 368161384,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-05T21:01:35Z",
+                "open_issues": 3,
                 "owner": "decentraland-scenes",
                 "repo": "video-streaming",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             }
@@ -74,12 +104,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An YouTube clone built with React, Solidty and Livepeer",
+                "homepage": "https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer",
                 "id": 456379721,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-10T06:16:24Z",
+                "open_issues": 6,
                 "owner": "suhailkakar",
                 "repo": "Decentralized-YouTube",
-                "stars": 429
+                "stars": 429,
+                "topics": [
+                  "blockchain",
+                  "dapp",
+                  "ethereum",
+                  "ipfs",
+                  "react",
+                  "solidity",
+                  "web3",
+                  "youtube",
+                  "youtubeclone"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -90,12 +135,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "1-click live streaming from a web app.",
+                "homepage": "https://justcast.it",
                 "id": 370744428,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-30T22:35:01Z",
+                "open_issues": 13,
                 "owner": "victorges",
                 "repo": "justcast.it",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "broadcasting",
+                  "ffmpeg",
+                  "livepeer",
+                  "livestream",
+                  "rtmp",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -106,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo TikTok clone built on top of Livepeer and Lens Protocol",
+                "homepage": null,
                 "id": 592445715,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-25T09:13:54Z",
+                "open_issues": 0,
                 "owner": "livepeer",
                 "repo": "livepeer-lens-shortvideos",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -122,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDK for streaming media via RTMP from the web.",
+                "homepage": null,
                 "id": 406880440,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-07T18:07:15Z",
+                "open_issues": 0,
                 "owner": "livepeer",
                 "repo": "webrtmp-sdk",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -138,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "livepeer-evm-tokengating.vercel.app",
                 "id": 577240878,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-03-02T13:10:36Z",
+                "open_issues": 0,
                 "owner": "suhailkakar",
                 "repo": "Livepeer-EVM-Tokengating",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -154,12 +226,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sample application built with FVM, Livepeer and Lighthouse",
+                "homepage": "https://docs.livepeer.org/tutorials/developing/build-decentralized-video-app-with-fvm",
                 "id": 613712066,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-04-04T00:18:26Z",
+                "open_issues": 0,
                 "owner": "suhailkakar",
                 "repo": "FVM-x-Livepeer-Example-App",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ethereum",
+                  "filecoin",
+                  "filecoinvirtualmachine",
+                  "fvm",
+                  "livepeer"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -170,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "livepeer-solana-nft.vercel.app",
                 "id": 583452368,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-27T13:32:50Z",
+                "open_issues": 0,
                 "owner": "suhailkakar",
                 "repo": "livepeer-solana-nft",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -186,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "livepeer-d-storage-playback.vercel.app",
                 "id": 567179879,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-12T19:06:42Z",
+                "open_issues": 0,
                 "owner": "suhailkakar",
                 "repo": "livepeer-dStorage-playback",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -202,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 621927790,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-19T16:09:04Z",
+                "open_issues": 0,
                 "owner": "alextitonis",
                 "repo": "Unity-Livepeer-Client",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -218,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "livepeer-aptos.vercel.app",
                 "id": 570094291,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-11-28T15:11:20Z",
+                "open_issues": 0,
                 "owner": "suhailkakar",
                 "repo": "Livepeer-Aptos",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -234,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 630037355,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-04-19T14:37:57Z",
+                "open_issues": 0,
                 "owner": "suhailkakar",
                 "repo": "livepeer-guild-token-gated-vod",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             }
@@ -263,12 +371,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for retrieving and generating detailed reports on orchestrator and delegator wallet activity using the Livepeer Subgraph and on-chain contract data.",
+                "homepage": null,
                 "id": 990983256,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-03T11:06:51Z",
+                "open_issues": 0,
                 "owner": "rickstaa",
                 "repo": "livepeer-income-reports",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "data",
+                  "graph",
+                  "livepeer",
+                  "tax"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             }
@@ -286,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A guide for Orchestrators looking to improve operational efficiency, specifically those running a multi-node setup.",
+                "homepage": null,
                 "id": 519537281,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-08-12T16:09:58Z",
+                "open_issues": 0,
                 "owner": "AuthorityNull",
                 "repo": "Livepeer-Docker-Portainer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -302,12 +425,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitors your Livepeer orchestrator and alerts you when it’s at risk of missing a reward call.",
+                "homepage": null,
                 "id": 1050542580,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-12-23T23:11:10Z",
+                "open_issues": 0,
                 "owner": "rickstaa",
                 "repo": "livepeer-reward-watcher",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "arbitrum",
+                  "blockchain",
+                  "evm",
+                  "golang",
+                  "livepeer",
+                  "rewards"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             },
@@ -318,12 +453,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Prometheus exporter for Livepeer orchestrator metrics. Fetches and exposes orchestrator metrics from various Livepeer endpoints for Prometheus to scrape.",
+                "homepage": "https://hub.docker.com/r/rickstaa/livepeer-exporter",
                 "id": 718089313,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-20T17:42:28Z",
+                "open_issues": 12,
                 "owner": "transcodeninja",
                 "repo": "livepeer-exporter",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "exporter",
+                  "livepeer",
+                  "orchestrator",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "transcoding"
+                ]
               },
               "first_seen": "2026-08-28T22:52:17.973Z"
             }
@@ -337,15 +484,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:52:17.973Z",
+    "last_updated": "2026-08-29T05:06:39.475Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem",
+      "homepage": "https://livepeer.cool",
       "id": 615469832,
       "language": "HTML",
+      "license": "MIT",
       "last_commit": "2025-11-21T05:14:22Z",
+      "open_issues": 2,
       "owner": "livepeer",
       "repo": "awesome-livepeer",
-      "stars": 52
+      "stars": 52,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "faec6077ee8b57c8db209bfd6934a55e729fd051",
     "enhanced_repository": "enhansome/enhansome-livepeer",
