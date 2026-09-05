@@ -91,7 +91,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ### Livepeer Tools and Libraries
 
-* [`go-livepeer`](https://github.com/livepeer/go-livepeer) ⭐ 586 | 🐛 385 | 🌐 Go | 📅 2026-09-03 - Client software running Livepeer Public Transcoding Network.
+* [`go-livepeer`](https://github.com/livepeer/go-livepeer) ⭐ 586 | 🐛 375 | 🌐 Go | 📅 2026-09-05 - Client software running Livepeer Public Transcoding Network.
 * [Livepeer Studio](https://livepeer.studio) - All the tools needed to build apps with decentralized video streaming, including livestreaming, video on demand, and video NFT minting.
 * [Livepeer Subgraph](https://thegraph.com/hosted-service/subgraph/0xcadams/livepeer-arbitrum-one) - A protocol for affordable and reliable video encoding. Find transcoders, delegators, earning pools, and staking rounds.
 * [Livepeer Catalyst](https://docs.livepeer.org/guides/developing) - An infinitely scalable open-source media server for streaming directly onto the Livepeer network.
@@ -193,4 +193,4 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
