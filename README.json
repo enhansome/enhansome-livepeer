@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "Using to create your own platform for livestreaming",
-              "description": null,
+              "description": "videoDAC/livepeer-gateway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -72,7 +72,7 @@
             {
               "node_type": "item",
               "title": "Streaming into Decentraland with Livepeer Studio",
-              "description": null,
+              "description": "decentraland-scenes/video-streaming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "OurTube - decentralized YouTube sample app",
-              "description": null,
+              "description": "suhailkakar/Decentralized-YouTube",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -131,7 +131,7 @@
             {
               "node_type": "item",
               "title": "Justcast.it: 1 click \"start livestream\" from the browser",
-              "description": null,
+              "description": "victorges/justcast.it",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "Demo TikTok clone built on Livepeer + Lens Protocol",
-              "description": null,
+              "description": "livepeer/livepeer-lens-shortvideos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -180,7 +180,7 @@
             {
               "node_type": "item",
               "title": "WebRTMP sample app",
-              "description": null,
+              "description": "livepeer/webrtmp-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +201,7 @@
             {
               "node_type": "item",
               "title": "Token gating a video on an EVM chain",
-              "description": null,
+              "description": "suhailkakar/Livepeer-EVM-Tokengating",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -222,7 +222,7 @@
             {
               "node_type": "item",
               "title": "Sample app combining Filecoin's FVM and Livepeer",
-              "description": null,
+              "description": "suhailkakar/FVM-x-Livepeer-Example-App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "Mint Video NFTs on Solana",
-              "description": null,
+              "description": "suhailkakar/livepeer-solana-nft",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "Sample app for video playback off of dStorage like IPFS and Arweave",
-              "description": null,
+              "description": "suhailkakar/livepeer-dStorage-playback",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,7 +291,7 @@
             {
               "node_type": "item",
               "title": "Unity Livepeer Client",
-              "description": null,
+              "description": "alextitonis/Unity-Livepeer-Client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "Token gating a video on Aptos",
-              "description": null,
+              "description": "suhailkakar/Livepeer-Aptos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -333,7 +333,7 @@
             {
               "node_type": "item",
               "title": "Use Guild.xyz to token gate video content",
-              "description": null,
+              "description": "suhailkakar/livepeer-guild-token-gated-vod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:11:39.916Z",
+    "last_updated": "2026-10-03T04:53:22.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem",
