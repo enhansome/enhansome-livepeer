@@ -21,7 +21,7 @@
                 "open_issues": 362,
                 "owner": "livepeer",
                 "repo": "go-livepeer",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "broadcasting",
                   "ethereum",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:50:26.855Z",
+    "last_updated": "2026-10-23T17:40:51.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem",
