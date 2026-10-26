@@ -91,7 +91,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ### Livepeer Tools and Libraries
 
-* [`go-livepeer`](https://github.com/livepeer/go-livepeer) ⭐ 587 | 🐛 362 | 🌐 Go | 📅 2026-10-20 - Client software running Livepeer Public Transcoding Network.
+* [`go-livepeer`](https://github.com/livepeer/go-livepeer) ⭐ 587 | 🐛 363 | 🌐 Go | 📅 2026-10-20 - Client software running Livepeer Public Transcoding Network.
 * [Livepeer Studio](https://livepeer.studio) - All the tools needed to build apps with decentralized video streaming, including livestreaming, video on demand, and video NFT minting.
 * [Livepeer Subgraph](https://thegraph.com/hosted-service/subgraph/0xcadams/livepeer-arbitrum-one) - A protocol for affordable and reliable video encoding. Find transcoders, delegators, earning pools, and staking rounds.
 * [Livepeer Catalyst](https://docs.livepeer.org/guides/developing) - An infinitely scalable open-source media server for streaming directly onto the Livepeer network.
@@ -116,7 +116,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ### Demo Apps
 
-* [OurTube - decentralized YouTube sample app](https://github.com/suhailkakar/Decentralized-YouTube) ⭐ 429 | 🐛 6 | 🌐 TypeScript | 📅 2024-01-10
+* [OurTube - decentralized YouTube sample app](https://github.com/suhailkakar/Decentralized-YouTube) ⭐ 428 | 🐛 6 | 🌐 TypeScript | 📅 2024-01-10
 * [Justcast.it: 1 click "start livestream" from the browser](https://github.com/victorges/justcast.it) ⭐ 40 | 🐛 13 | 🌐 TypeScript | 📅 2023-04-30
 * [Demo TikTok clone built on Livepeer + Lens Protocol](https://github.com/livepeer/livepeer-lens-shortvideos) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-25
 * [WebRTMP sample app](https://github.com/livepeer/webrtmp-sdk) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-07
@@ -193,4 +193,4 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
