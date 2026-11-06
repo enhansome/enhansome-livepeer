@@ -17,8 +17,8 @@
                 "id": 94728962,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-05T18:41:42Z",
-                "open_issues": 344,
+                "last_commit": "2026-11-06T18:47:07Z",
+                "open_issues": 346,
                 "owner": "livepeer",
                 "repo": "go-livepeer",
                 "stars": 587,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:27:29.703Z",
+    "last_updated": "2026-11-06T19:50:09.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem",
