@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:59:26.219Z",
+    "last_updated": "2026-11-12T20:37:56.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem",
@@ -492,8 +492,8 @@
       "id": 615469832,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2025-11-21T05:14:22Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-12T15:24:11Z",
+      "open_issues": 0,
       "owner": "livepeer",
       "repo": "awesome-livepeer",
       "stars": 52,
@@ -502,7 +502,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "faec6077ee8b57c8db209bfd6934a55e729fd051",
+    "original_repository_sha": "ffe78095bd28d49b6e9eeb3b7fda24cdc90656a9",
     "enhanced_repository": "enhansome/enhansome-livepeer",
     "enhanced_repository_description": null,
     "title": "Awesome LivePeer with stars"

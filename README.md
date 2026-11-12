@@ -134,6 +134,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 ### Delegator Tools
 
 * [Livepeer Income Reports](https://github.com/rickstaa/livepeer-income-reports) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-01-03 - A collection of Python scripts for Livepeer delegators and orchestrators to calculate earnings and rewards and generate tax reports.
+* [LiveWatcher](https://livewatcher.xyz) - A delegator and orchestrator monitoring PWA that tracks stake, pending fees, and earnings, and sends alerts for reward-cut/fee-cut changes, missed reward calls, and governance proposals via Telegram, Discord, or email.
 
 ### Orchestrator Pools
 
@@ -193,4 +194,4 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
