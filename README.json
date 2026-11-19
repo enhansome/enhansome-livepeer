@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-17T09:53:31Z",
-                "open_issues": 342,
+                "open_issues": 341,
                 "owner": "livepeer",
                 "repo": "go-livepeer",
-                "stars": 587,
+                "stars": 588,
                 "topics": [
                   "broadcasting",
                   "ethereum",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:04:38.761Z",
+    "last_updated": "2026-11-19T21:09:37.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem",
